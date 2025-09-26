@@ -1,2 +1,2 @@
-# Solution for two-sum, reverse string, and longest increasing  subsequence
+# Solution for two-sum, reverse string, and palindrome number
 
